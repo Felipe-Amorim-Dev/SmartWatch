@@ -5,11 +5,11 @@ html {
 }
 @font-face {
   font-family: titleFont;
-  src: url(/src/FONT/Prata-Regular.ttf);
+  src: url(./FONT/Prata-Regular.ttf);
 }
 @font-face {
   font-family: textFont;
-  src: url(/src/FONT/Roboto-VariableFont_wdth\,wght.ttf);
+  src: url(./FONT/Roboto-VariableFont_wdth\,wght.ttf);
 }
 
 h1, h2, h3, h4, h5, h6, a {
@@ -25,13 +25,13 @@ p {
 }
 
 .chamada {
-  background-image: url(/src/IMG/apresentation-2_wide.jpg);
+  background-image: url(./IMG/apresentation-2_wide.jpg);
   background-position: top;
   background-repeat: no-repeat;
 }
 
 .divisor-2 {
-  background-image: url(/src/IMG/apresentation-5.png);
+  background-image: url(./IMG/apresentation-5.png);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -39,7 +39,7 @@ p {
 }
 
 .sobre {
-  background-image: url(/src/IMG/apresentation-3.jpg);
+  background-image: url(./IMG/apresentation-3.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
