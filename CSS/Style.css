@@ -1,0 +1,50 @@
+html {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+@font-face {
+  font-family: titleFont;
+  src: url(/src/FONT/Prata-Regular.ttf);
+}
+@font-face {
+  font-family: textFont;
+  src: url(/src/FONT/Roboto-VariableFont_wdth\,wght.ttf);
+}
+
+h1, h2, h3, h4, h5, h6, a {
+  font-family: titleFont;
+}
+
+p {
+  font-family: textFont;
+}
+
+.menu {
+  filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.25));
+}
+
+.chamada {
+  background-image: url(/src/IMG/apresentation-2_wide.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+.divisor-2 {
+  background-image: url(/src/IMG/apresentation-5.png);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.sobre {
+  background-image: url(/src/IMG/apresentation-3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sobre .filter-black {
+  background-color: black;
+  opacity: 80%;
+}/*# sourceMappingURL=Style.css.map */
