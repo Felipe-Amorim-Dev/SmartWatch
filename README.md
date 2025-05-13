@@ -15,12 +15,24 @@
 ## 🚀 Tecnologias utilizadas
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
-
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🖌️ Template (WireFrame)
+
+Uma interface moderna, responsiva e focada em conversão.
+
+Este projeto foi desenvolvido com o objetivo de apresentar o SmartWatch de forma simples, combinando design minimalista, tipografia limpa e contraste visual estratégico. A paleta foi pensada para transmitir tecnologia e sofisticação, com detalhes em tons de laranja para destacar chamadas para ação.
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+🔗 **Acesse aqui:** [Figma-Template](https://www.figma.com/community/file/1504192005690436891)
 
 ---
 
