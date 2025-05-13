@@ -25,13 +25,13 @@ p {
 }
 
 .chamada {
-  background-image: url(IMG/apresentation-2_wide.jpg);
+  background-image: url(/IMG/apresentation-2_wide.jpg);
   background-position: top;
   background-repeat: no-repeat;
 }
 
 .divisor-2 {
-  background-image: url(IMG/apresentation-5.png);
+  background-image: url(/IMG/apresentation-5.png);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -39,7 +39,7 @@ p {
 }
 
 .sobre {
-  background-image: url(IMG/apresentation-3.jpg);
+  background-image: url(/IMG/apresentation-3.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
