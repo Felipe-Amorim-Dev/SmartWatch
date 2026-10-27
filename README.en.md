@@ -46,6 +46,17 @@ Open `index.html` in a browser.
 
 [Visit the project](https://smartwatch-io.netlify.app/)
 
+## 🏗️ Project organization and implementation
+
+- index.html defines the product landing page, color variations and calls to action.
+- SASS/Style.scss and SASS/_Page-config.scss organize styling and layout configuration.
+- IMG contains product variants, while Apresentação holds responsive mockups.
+- The website uses static resources and responsive styles without a backend service.
+
+### Rendering and assets
+
+The central project assets can be found in `IMG/`. The entry point is `index.html`.
+
 <a id="licenca"></a>
 ## 📄 License
 
