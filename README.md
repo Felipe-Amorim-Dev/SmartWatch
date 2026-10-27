@@ -46,6 +46,17 @@ Abra `index.html` no navegador.
 
 [Acessar projeto](https://smartwatch-io.netlify.app/)
 
+## 🏗️ Organização e implementação do projeto
+
+- index.html concentra a landing page e suas seções de produto, cores e chamadas para ação.
+- SASS/Style.scss e SASS/_Page-config.scss organizam a apresentação e configurações de estilo.
+- IMG armazena imagens e variações do relógio; Apresentação reúne mockups em diferentes tamanhos de tela.
+- A experiência utiliza conteúdo estático e estilos responsivos, sem dependência de um serviço back-end.
+
+### Estrutura e recursos
+
+Os principais arquivos e recursos estão em `IMG/`. O ponto de entrada é `index.html`.
+
 <a id="licenca"></a>
 ## 📄 Licença
 
