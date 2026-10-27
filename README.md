@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="Apresentação/Apresentação mult-devices.png" alt="Mockup multidevices do SmartWatch" width="100%"/>       
+  <img src="Apresentação/Apresentação mult-devices.png" alt="Prévia da versão desktop do SmartWatch" width="100%"/>       
   <img src="Apresentação/Apresentação Web.png" alt="Mockup multidevices do SmartWatch" width="100%"/>   
 </p>
 
@@ -27,7 +27,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🖌️ Template (WireFrame)
 
-Uma interface moderna, responsiva e focada em conversão.
+Uma página conceitual para apresentar um relógio inteligente. Não há métricas de conversão neste projeto.
 
 Este projeto foi desenvolvido com o objetivo de apresentar o SmartWatch de forma simples, combinando design minimalista, tipografia limpa e contraste visual estratégico. A paleta foi pensada para transmitir tecnologia e sofisticação, com detalhes em tons de laranja para destacar chamadas para ação.
 
@@ -52,7 +52,7 @@ A landing page do **SmartWatch** foi desenvolvida com foco em:
 - **Componentes reutilizáveis** com Tailwind e SASS
 - **Estética minimalista** com destaque para o produto
 
-O layout foi planejado para destacar os benefícios do smartwatch, apresentar suas variações de cor e gerar conversões com uma oferta especial limitada.
+O layout foi planejado para destacar os benefícios do smartwatch, apresentar suas variações de cor e evidenciar a oferta ilustrativa do layout.
 
 ---
 
@@ -68,10 +68,10 @@ O layout foi planejado para destacar os benefícios do smartwatch, apresentar su
 ## 📌 Como rodar localmente
 
 1. Clone o repositório:  
-   `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+   `git clone https://github.com/Felipe-Amorim-Dev/SmartWatch.git`
 
 2. Acesse o diretório:  
-   `cd nome-do-repositorio`
+   `cd SmartWatch`
 
 3. Abra o arquivo `index.html` no seu navegador.
 
